@@ -1,0 +1,6 @@
+Comment,Designator,Footprint
+LM555CM,U1,SOIC-8_3.9x4.9mm_P1.27mm
+100K,R2,R_0402_1005Metric
+1K,R1,R_0402_1005Metric
+1uF,C2,C_0805_2012Metric_Pad1.18x1.45mm_HandSolder
+10nF,C1,C_0805_2012Metric_Pad1.18x1.45mm_HandSolder

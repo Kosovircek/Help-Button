@@ -1,0 +1,11 @@
+Ref,Val,Package,PosX,PosY,Rot,Side
+"C1","1uF","C_0805_2012Metric",144.526000,-94.742000,0.000000,top
+"C2","10nF","C_0805_2012Metric",144.526000,-98.044000,180.000000,top
+"J1","Conn_01x03_Female","PinHeader_1x03_P2.54mm_Vertical",134.620000,-99.060000,90.000000,top
+"J_N1","Conn_01x01_Male","PinHeader_1x01_P2.54mm_Vertical",124.968000,-106.426000,0.000000,top
+"J_N7","Conn_01x01_Male","PinHeader_1x01_P2.54mm_Vertical",159.004000,-95.504000,90.000000,top
+"J_P2","Conn_01x01_Male","PinHeader_1x01_P2.54mm_Vertical",106.680000,-105.156000,180.000000,top
+"J_P8","Conn_01x01_Male","PinHeader_1x01_P2.54mm_Vertical",148.844000,-106.426000,0.000000,top
+"RA1","1k","R_0402_1005Metric",136.144000,-94.996000,0.000000,top
+"RB1","100k","R_0402_1005Metric",139.192000,-94.996000,0.000000,top
+"U1","LM555CM","SOIC-8_3.9x4.9mm_P1.27mm",137.668000,-90.676000,0.000000,top
